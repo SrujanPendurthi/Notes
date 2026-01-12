@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b76a3ff70d6063bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c7f8c3ffe48285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a635734dae8351",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ee4137350645ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8aad5b0e1c7dbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "610143b677213b91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e391d5960443ddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15d88c875f75ca71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0690d140e8a48092",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8e34139a3bfd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8956a34ad22661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "dc8e772fe8ce5822",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "68ca7dd2157c0e16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19c5f2aed57b6a6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4a88789c659bb509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "48a635734dae8351",
+  "lastOpenFiles": [
+    "Concepts/Proof Writing.md",
+    "Concepts/Basic Set Theory.md",
+    "Matrices/Introduction and Vector Operations.md",
+    "To-Do.md",
+    "Business Computing",
+    "Reasoning with Data",
+    "Reasoning with Data.md",
+    "Concepts/Logic.md",
+    "Concepts/Preliminary Definitions.md",
+    "DSA",
+    "DevOps",
+    "DSA/Algorithms.md",
+    "DevOps/Docker.md",
+    "DevOps/Git.md",
+    "Concepts/Induction.md",
+    "Concepts/Sets.md",
+    "Supervised Learning/Lasso.md",
+    "Ridge Regression.md",
+    "Supervised Learning/Ridge Regression and Ridge Classification.md",
+    "Supervised Learning/Least Squares.md",
+    "Journal/12-21-2025.md",
+    "Journal",
+    "Matrices",
+    "Concepts",
+    "Welcome.md",
+    "Supervised Learning"
+  ]
+}
