@@ -54,6 +54,7 @@ We can use propositional variables to denotes atomic propositions, using the := 
 **Biconditional Connective**, denoted $\iff$, is translated "$P$ if and only if $Q$" 
 	This means for $P$ to be `True` ($P \to Q \wedge Q \to P$) must be `True` 
 	If $P \iff Q$ is `True` for all possible truth values of the atomic propositions, then we says $P \equiv Q$ or $P$ and $Q$ are *logically equivalent*
+	A biconditional is the implication+ the converse of the implication
 
 | $P$ | $Q$ | $P\iff Q$ |
 | --- | --- | --------- |
@@ -122,6 +123,16 @@ Finding a Maximally Negated Form:
 	*Push negations through connectives* - Use DeMorgan's Laws and double negation elimination
 	*Rewrite Implications* - Replace $A \to B$ with $\neg A \lor B$ before pushing negations inside
 	*Repeat until only atomic formulas are negated* - Continue applying the rules unit no quantifiers or connectives have a negation directly in front of them
+# Converse, Inverse, Contrapositive
+A **Contrapositive** of a conditional statement,$p\to q$, is $\neg q \to \neg p$, making a logically equivalent statement
+
+A **Converse** of a conditional statement, $p \to q$, is $q \to p$, making them not always logically equivalent
+
+An **Inverse** of a conditional statement, $p \to q$, is $\neg p \to \neg q$, making them not always logically equivalent
+
+Since the original and contrapositive are logically equivalent, it makes them very powerful tools in certain proof writing strategies
+
+The Inverse and Converse are logically equivalent
 
 # Proof Writing
 **Direct Proofs** are proofs that attempt to establish the truth of the statement as written 
@@ -138,3 +149,6 @@ An **Existential Statement** is a proposition of the form $\exists x \in S, P(x)
 A **constructive proof** proves a mathematical statement, especially an existence claim (e.g., "there exists an X such that..."), by explicitly providing the object or an algorithm to create it.
 	This method builds the object directly, making it demonstrable and often algorithmic, contrasting with classical logic's reliance on indirect methods like proof by contradiction which might rely on the law of the excluded middle
 Unlike **non-constructive proofs** which show an object must exist without showing how to find it
+
+# Resources
+https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz
