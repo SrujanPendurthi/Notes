@@ -28,8 +28,33 @@
 **Categorical** is not naturally numerical
 	AKA: Qualitative
 
+Shape: Modality and skews
+Center: What is the typical value?
+Spread: Within about how many units do the majority of values tend to lie from the average?
+Outliers: Any values that seem to be suspiciously un-like the majority,
+
 # Representations of Data
 Frequency Tables are an example o distribution
 Relative Frequencies/Percent Frequencies
 Frequency Bar Graph for Categorical Data
 Frequency Pie graph for Categorical data
+
+# Standard Deviation
+The greater the spread, the greater the value of standard deviation
+Defined to be a positive number with the same units of data
+Roughly $\frac{2}{3}$ of the values will be within one standard deviation
+
+The equation below is the sample standard deviation, where you find the absolute difference between a data point and the mean
+	$$S = \sqrt\frac{\sum_{i=1}^n(X_i-\bar{X})^2}{n-1}$$	The equation below is the sample population deviation, where you find the absolute difference between a data point and the mean
+	$$\sigma = \sqrt\frac{\sum_{i=1}^n(X_i-\mu)^2}{N}$$
+The standard deviation is a statistic whereas the population standard deviation is a parameter
+
+**Variance** is the square of standard deviation
+
+# The Boxplot
+**Median** is the $50^{th}$  percentile
+$Q_1$ is the 25% percentile, first quartile
+$Q_3$ is the 75% percentile, third quartile
+**Inter Quartile Range(IQR)** is $Q_3 -Q_1$, telling us how many units the middle half of the data range over and is a rough measure of data spread although not accurate
+
+The Boxplot is a type of graphical display of the five-number summary of quantitative data

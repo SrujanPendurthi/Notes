@@ -14,7 +14,8 @@ Benefits of Median: Outlier Resistant, Good for ordinal data(ratings), better fo
 Drawbacks of Median: Only focuses on middle of data, tedious for large datasets, less stable especially for small sample sizes
 # Histograms
 **Histograms** are charts that plot the distribution of numeric variable's values as a series of bars, letting us see skews and frequency distributions easily
-
+# Standard deviation, Variance(Sample vs Population)
+# Quartile, mode, min, max, box plot
 # Resources
 Hisograms
 https://www.youtube.com/watch?v=qBigTkBLU6g
