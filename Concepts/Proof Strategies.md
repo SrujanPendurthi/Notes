@@ -36,3 +36,6 @@ example:
 		Then $N+1 \le N$, which is absurd.
 		So out assumption was wrong. Hence there is no largest integer
 	So we assumed the negation of the statement, then shows that the negation was False in order to show the original statement was True
+
+# Resources
+[[Logic]]

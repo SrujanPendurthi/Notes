@@ -58,3 +58,7 @@ $Q_3$ is the 75% percentile, third quartile
 **Inter Quartile Range(IQR)** is $Q_3 -Q_1$, telling us how many units the middle half of the data range over and is a rough measure of data spread although not accurate
 
 The Boxplot is a type of graphical display of the five-number summary of quantitative data
+
+
+# Resources
+[[Exploratory Data Analysis for One Quantitative Variable]]

@@ -1,10 +1,10 @@
-Properties of Matrix Multiplication
-	Associative: $A(BC) = (AB)C$
-	Distributive: $A(B+C) = AB + AC$
-	NO Commutative Property(not always true)
+**Properties of Matrix Multiplication**
+	*Associative*: $A(BC) = (AB)C$
+	*Distributive*: $A(B+C) = AB + AC$
+	*NO Commutative Property*(not always true)
 		$AB \ne BA$
 
-Transpose
+**Transpose**
 	Operation done to a single matrix
 	Suppose $A$ is an $m * n$ matrix. $A^T$ is the $n *m$ matrix with the rows of A written vertically as columns
 	That is, if $A = [a_{ij}], A^T = [a_{ji}]$
@@ -17,8 +17,8 @@ Let $\vec{v}, \vec{w} \in \mathbb{R}^n$ be column vectors
 
 Cannot always cancel out terms with matrices
 
-**Identity** Matrix
-	 the $n *n$ matrix $I_n$ with entries $I_ij = \{1 \text{ if } i =j, 0 \text{ if } i \ne\}$
+**Identity Matrix**
+	 the $n *n$ matrix $I_n$ with entries $I_{ij} = \{1 \text{ if } i =j, 0 \text{ if } i \ne\}$
 	 We have $AI_n = A$ and $BI_n$ = B  for any matrices $A \in \mathbb{R}^{n * p}$  and $B \in \mathbb{R}^{n*p}$ 
 	 The identity matrix is the "I" of matrices
 

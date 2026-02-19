@@ -23,7 +23,7 @@ How to define a set?
 	On the left side of the colon, we indicate which set our elements are coming from.
 	On the right side of the colon, we indicate the properties the elements must hold
 # Set Equality
-$A=B \iff$ 
+$A=B \iff$   
 	Every element of A is an element of B
 	Every element of B is an element of A
 
@@ -33,6 +33,8 @@ $A = B \iff A \subseteq B \wedge B \subseteq A$
 
 $\subset$ is not the same as $\subseteq$ as the second symbol indicates equality, while the first one does not. The first one indicates that the sets are not equal that one is a subset of another
 
+$\subset$ is defined as $\forall a \in A, a \in B$
+$\subsetneq$ is defined as $([\forall a \in A, a \in B] \land [\exists b \in B, b \notin A])$
 The $\subseteq$ relation has a property known as **transitivity**
 
 **Transitivity Theorem:** If $A \subseteq B$ and $B \subseteq C$, then $A \subseteq C$
@@ -99,3 +101,4 @@ $\emptyset$ denotes the empty set, which is the unique set with no elements
 # Resources
 https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz
 
+[[Sets]]
