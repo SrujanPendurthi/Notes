@@ -1,5 +1,5 @@
 Everything in OpenGL is in the 3D space, but the screen and the window are a 2D array of pixels
-	 Because of this a large part of OpenGL is transforming the 3D coordinates to 2D pixels, which is managed by the [[graphics pipeline|Graphics Pipeline]] of OpenGL and a ton of math
+	 Because of this a large part of OpenGL is transforming the 3D coordinates to 2D pixels, which is managed by the [[Graphics Pipeline|Graphics Pipeline]] of OpenGL and a ton of math
 
 To start drawing something in OpenGL, we first have give it some input vertex data
 	Since OpenGL is a 3D library, we specify all coordinates in 3D($x,y,z$) 

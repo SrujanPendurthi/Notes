@@ -1,4 +1,3 @@
-
 A <b>linear combination</b> of $v_1,v_2,...,v_3$ is a vector of the form $$c_1v_1 + c_2v_2 + ... + c_nv_n$$for some scalars $\in \mathbb{R}$
 
 The <b>span</b> of a list of vectors is the set of all linear combinations of those vector

@@ -1,4 +1,4 @@
-<u>Theorem 10.1: Test for Linear Independence in $\mathbb{R}^n$</u>
+<u>Theorem 10.1: Test for Linear Independence in</u> $\mathbb{R}^n$
 
 Let $v_1,...,v_k \in \mathbb{R}^n$ be vectors and $A$ be the matrix $v_1,...,v_k$ as its columns
 	If the rank of $A$ is equal to $k$, then the vectors $v_1,...,v_k$ are linearly independent
@@ -8,7 +8,6 @@ Let $v_1,...,v_k \in \mathbb{R}^n$ be vectors and $A$ be the matrix $v_1,...,v_k
 Suppose $v_1,...,v_n \in V$ are linearly dependent. Then there exists a vector $v_k$ in the list such that:
 	$v_k \in span(v_1,...,v_{k-1},v_{k+1},...,v_n)$
 	$span(v_1,...,v_{k-1},v_{k+1},...,v_n) = span(v_1,...,v_n)$
-
 # Bases
 A <b>basis</b> of a vector space $V$ is a linearly independent list of vectors in $V$ that spans $V$
 	Examples: $\hat{i},\hat{j}$ 

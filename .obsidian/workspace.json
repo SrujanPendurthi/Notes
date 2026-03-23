@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "051543b8c1abd5b0",
+        "id": "b714f043e51a39be",
         "type": "tabs",
         "children": [
           {
-            "id": "1327ccc3648a7a85",
+            "id": "8a7d6f1ab6492d76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reasoning with Data/Elementary Probability.md",
+                "file": "Reasoning with Data/Statistical Independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementary Probability"
-            }
-          },
-          {
-            "id": "b47580b0d859255a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrices/Rank and Nullity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rank and Nullity"
+              "title": "Statistical Independence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,39 +183,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "b47580b0d859255a",
+  "active": "8a7d6f1ab6492d76",
   "lastOpenFiles": [
-    "Matrices/Span and Linear Independence.md",
-    "Matrices/Bases and Dimension.md",
-    "Matrices/Properties, Transpose, Inverse.md",
-    "Matrices/Rank and Nullity.md",
-    "Matrices/Linear Systems and RREF.md",
-    "Matrices/Linear Independence and Bases.md",
-    "Matrices/Introduction and Vector Operations.md",
-    "Matrices/Fundamental Subspaces.md",
-    "Matrices/Elementary Row Operations and Gaussian Elimination.md",
-    "Statistical Independence.md",
+    "Reasoning with Data/Density Curves.md",
+    "Reasoning with Data/Random Variables.md",
+    "Reasoning with Data/Conditional Probability.md",
+    "Reasoning with Data/Statistical Independence.md",
     "Reasoning with Data/Elementary Probability.md",
-    "To-Do.md",
-    "Concepts/Functions.md",
-    "Matrices/Properties of Linear Transformations.md",
+    "Reasoning with Data/Central Limit Theorem.md",
+    "Reasoning with Data/Binomial Proportions.md",
+    "Reasoning with Data/Key Topics in Study Design.md",
+    "Reasoning with Data/Confidence Intervals.md",
+    "Matrices/Coordinate Vectors.md",
+    "Matrices/Rank and Nullity.md",
     "Matrices/Linear Transformations.md",
+    "Matrices/Properties of Linear Transformations.md",
+    "Matrices/Matrix of a Linear Transformaiton.md",
+    "Matrices/Inverses and Isomorphisms.md",
+    "Matrices/Inverse Matrices.md",
+    "Boot Sector.md",
     "Matrices/Vector Spaces.md",
-    "Concepts/Equivalence Classes.md",
-    "Matrices/Special Matrices.md",
-    "Concepts/Relations.md",
-    "Concepts/Sets.md",
-    "Concepts/Disproof Strategies.md",
-    "Concepts/Basic Set Theory.md",
-    "Concepts/Proof Strategies.md",
-    "Concepts/Logic.md",
-    "Concepts/Preliminary Definitions.md",
-    "Concepts/Proof Writing.md",
+    "Matrices/Fundamental Subspaces.md",
+    "Matrices/Bases and Dimension.md",
+    "Concepts/Cardinality.md",
+    "To-Do.md",
+    "Matrices/Linear Independence and Bases.md",
+    "Business Computing/Information Systems.md",
+    "Business Computing/mar 9.md",
+    "Concepts/Induction.md",
     "Untitled.canvas",
     "OpenGL",
     "Business Computing",
     "Reasoning with Data",
-    "DSA",
+    "DevOps/DSA",
     "DevOps",
     "Journal",
     "Matrices",

@@ -1,4 +1,4 @@
-Let $A \in \mathbb{R}^{m \times n}$. 
+$Let $A \in \mathbb{R}^{m \times n}$. 
 The <b>column space</b> of $A$ is the span of the columns of $A$, which is a subspace of $\mathbb{R}^m$. 
 	The column space of $A$ is denoted $C(A)$. 
 The <b>row space</b> of $A$ is the span of the rows of $A$, which is a subspace of $\mathbb{R}^n$. This is the same as the column space of $A^T$. 
@@ -15,13 +15,13 @@ Let $A \in \mathbb{R}^{m \times n}$. The column space of $A$ is the set of vecto
 Let $A \in \mathbb{R}^{m \times n}$. 
 The <b>null space</b> of $A$ is the set of vectors $x \in \mathbb{R}^n$ with $Ax = 0$, which is a subspace of $\mathbb{R}^n$. 
 	The null space of $A$ is denoted $N(A)$. 
-The <b> left null space</b> of $A$ is the set of vectors $x \in \mathbb{R}^m$ with $x^TA = 0$, which is a subspace of $\mathbb{R}^m$. 
+The <b> left null space</b> of $A$ is the set of vectors $x \in \mathbb{R}^m$ with $x^TA = 0$, which is a subspace of $\mathbb{R}^m$
 	This is the same as the null space of $A^T$
 	The left null space of $A$ is denoted $N(A)^T$
 <u>Algorithm 12.5: Bases for the Null Space and Left Null Space</u>
-Let $A \in \mathbb{R}^{m \times n}$. 
-To find a basis for the null space of $A$, find the general solution to $Ax = 0$ and then take the solution vectors being multiplied by the free variables. 
-To find a basis for the left null space of $A$, do the same thing with $A^Tx = 0$ 
+	Let $A \in \mathbb{R}^{m \times n}$. 
+	To find a basis for the null space of $A$, find the general solution to $Ax = 0$ and then take the solution vectors being multiplied by the free variables. 
+	To find a basis for the left null space of $A$, do the same thing with $A^Tx = 0$ 
 
 
 # Resources
